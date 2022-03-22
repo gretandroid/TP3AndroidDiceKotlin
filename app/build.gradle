@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "education.cccp.craps"
+        applicationId "education.cccp.dice"
         minSdk 23
         targetSdk 32
         versionCode 1
